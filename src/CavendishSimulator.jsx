@@ -1388,7 +1388,7 @@ export default function CavendishSimulator() {
       {/* HEADER */}
       <header className="app-header">
         <div>
-          <div className="app-title">Cavendish Torsion Balance Simulator</div>
+          <div className="app-title">Samantha W. Sr. Thesis — Cavendish Simulator with Environmental Interference</div>
           <div className="app-subtitle">Senior Thesis Tool · Interactive Physics · G = {G_ACCEPTED.toExponential(3)} N·m²/kg²</div>
         </div>
         <button className="how-btn" onClick={() => setShowHow(s => !s)}>
